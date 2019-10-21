@@ -15,6 +15,15 @@
 					<string>http://36.7.81.86:9180/assets/logo/biappios.ipa</string>
 				</dict>
 			</array
+			<key>metadata</key>
+			<dict>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>algf</string>
+			</dict>
 			
 		</dict>
 	</array>
