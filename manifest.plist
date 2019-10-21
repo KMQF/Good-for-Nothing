@@ -14,16 +14,8 @@
 					<key>url</key>
 					<string>http://172.16.110.102/ipa/biappios.ipa</string>
 				</dict>
-			</array
-			<key>metadata</key>
-			<dict>
-				<key>bundle-version</key>
-				<string>1.0</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>algf</string>
-			</dict>
+			</array>
+	
 			
 		</dict>
 	</array>
