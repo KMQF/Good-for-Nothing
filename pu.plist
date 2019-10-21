@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.100.1.151:8081/SolarWallet.ipa</string>
+					<string>https://172.16.110.102/ipa/biappios.ipa</string>
 				</dict>
 			</array
 			
